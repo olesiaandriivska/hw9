@@ -235,6 +235,7 @@
 //     .catch(reason => {
 //         console.log(reason);
 //     })
+//
 let energy = 0;
 let money = 1000;
 let time = 24;
